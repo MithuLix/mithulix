@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning - React.
 - 🤔 I’m looking for help with - React Documentation.
 - 💬 Ask me about - Technology related.
-- ⚡ Fun fact: ... Love to cooking &  traveling.
+- ⚡ Fun fact:  Love to cooking &  traveling.
 
 <br />
 
