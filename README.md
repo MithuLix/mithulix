@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on - Front End Development.
 - 🌱 I’m currently learning - React.
-- 🤔 I’m looking for help with - React Docimentation.
+- 🤔 I’m looking for help with - React Documentation.
 - 💬 Ask me about - Any Technology.
 - ⚡ Fun fact: ... Love to cooking &  traveling. 🥰
 
