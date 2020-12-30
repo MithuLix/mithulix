@@ -1,6 +1,6 @@
 ### Hi there. I'm Mohaiminul Islam 👋 aka MithuLix 😍.
 ## MERN Stack Developer.
-![](https://visitor-badge.laobi.icu/badge?page_id=mohaiminulIslam.MithuLix) [![Github](https://img.shields.io/github/followers/mohaiminulIslam?label=Followers&logo=Github)](https://github.com/MithuLix) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohaiminul-islam-mithu/) 
+![](https://visitor-badge.laobi.icu/badge?page_id=mohaiminulIslam.MithuLix) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohaiminul-islam-mithu/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mohaiminulislam.mithu/)
 
 - 🔭 I’m currently working on - Front End Development.
