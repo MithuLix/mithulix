@@ -1,19 +1,7 @@
 ### Hi there. I'm Mohaiminul Islam 👋 but you can call me MithuLix.
 ## MERN Stack Developer.
 ![](https://visitor-badge.laobi.icu/badge?page_id=mohaiminulIslam.MithuLix) [![Github](https://img.shields.io/github/followers/mohaiminulIslam?label=Followers&logo=Github)](https://github.com/MithuLix) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohaiminul-islam-mithu/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mohaiminulislam.mithu/)   
-    <a href="https://github.com/MithuLix/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/MithuLix/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/MithuLix/github-readme-stats">
-      <img src="https://codecov.io/gh/MithuLix/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/MithuLix/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/MithuLix/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/MithuLix/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MithuLix/github-readme-stats?color=0088ff" />
-    </a>
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mohaiminulislam.mithu/)<a href="https://codecov.io/gh/MithuLix/github-readme-stats"> <img src="https://codecov.io/gh/MithuLix/github-readme-stats/branch/master/graph/badge.svg" /> </a> <a href="https://github.com/MithuLix/github-readme-stats/issues"> <img alt="Issues" src="https://img.shields.io/github/issues/MithuLix/github-readme-stats?color=0088ff" /> </a> <a href="https://github.com/MithuLix/github-readme-stats/pulls"> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MithuLix/github-readme-stats?color=0088ff" /> </a>
 
 - 🔭 I’m currently working on - Front End Development.
 - 🌱 I’m currently learning - React.
