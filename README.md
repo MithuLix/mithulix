@@ -62,4 +62,6 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MithuLix&hide=php&theme=tokyonight " />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
