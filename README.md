@@ -57,11 +57,9 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MithuLix&count_private=true&show_icons=true&theme=tokyonight ">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MithuLix&count_private=true&show_icons=true&theme=tokyonight " />
 </a>
-<!-- 
+
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MithuLix&hide=php&theme=tokyonight ">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MithuLix&hide=php&theme=tokyonight " />
-</a> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MithuLix&layout=compact)](https://github.com/MithuLix/github-readme-stats)
+</a>
 
 </div>
