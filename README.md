@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning - React.
 - 💬 Ask me about - Technology related.
 - ⚡ Fun fact:  Love to cooking &  traveling.
+- 🌱 Mostly interested in - PYTHON.
 
 <br />
 
