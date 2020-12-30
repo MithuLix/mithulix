@@ -57,10 +57,10 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MithuLix&count_private=true&show_icons=true&theme=tokyonight ">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MithuLix&count_private=true&show_icons=true&theme=tokyonight " />
 </a>
-  
-  <a herf="https://camo.githubusercontent.com/819c3605d612596871c90d52793c9b0c34ce087dd8788970d66f4ba15646a935/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6d6174657269616c2d70616c656e69676874"></a>
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MithuLix&hide=php&theme=tokyonight ">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MithuLix&hide=php&theme=tokyonight " />
 </a>
+
+<a href="https://camo.githubusercontent.com/f6b41e550efc8266875513b793f6b9815db931f8f900dc4a7b275eb5e2556085/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d746f6b796f6e69676874"></a>
 </div>
