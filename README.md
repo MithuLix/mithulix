@@ -7,7 +7,6 @@
 - 🔥 Mostly interested in - PYTHON.
 - 💬 Ask me about - Technology related.
 
-<br />
 
 ### Languages and Tools:
 <p>
