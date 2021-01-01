@@ -1,13 +1,11 @@
 ### Hi there. I'm Mohaiminul Islam 👋 aka MithuLix 😍.
-## MERN Stack Developer.
+## Front End Developer.
 ![](https://visitor-badge.laobi.icu/badge?page_id=mohaiminulIslam.MithuLix) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohaiminul-islam-mithu/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mohaiminulislam.mithu/)
 
-- 🔭 I’m currently working on - Front End Development.
 - 🌱 I’m currently learning - React.
-- 💬 Ask me about - Technology related.
-- ⚡ Fun fact:  Love to cooking &  traveling.
 - 🔥 Mostly interested in - PYTHON.
+- 💬 Ask me about - Technology related.
 
 <br />
 
@@ -34,8 +32,6 @@
 <img align="left" alt="Python" width="30px" margin="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="MongoDB" width="30px" margin="30px" src="https://miro.medium.com/max/750/1*T0a-QUNewZDsyx6Bkinfew.png" />
-
-<img align="left" alt="HTML5" width="30px" margin="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="expressjs" width="30px" margin="30px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />
 
