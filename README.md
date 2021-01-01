@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning - React.
 - 🔥 Mostly interested in - PYTHON.
-- 💬 Ask me about - Technology related.
-
-
+- 💬 Ask me anything - Technology related.
+<br/>
+ 
 ### Languages and Tools:
 <p>
 <img align="left" alt="HTML5" width="30px" margin="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
