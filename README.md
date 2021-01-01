@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning - React.
 - 🔥 Mostly interested in - PYTHON.
 - 💬 Ask me anything - Technology related.
-<br/>
  
 ### Languages and Tools:
 <p>
