@@ -29,7 +29,7 @@
 
 <img  align="left" alt="linux" width="30px" margin="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img align="left" alt="React" width="30px" margin="30px"  src="https://octodex.github.com/images/yaktocat.png"/>
 
 
 </p>
